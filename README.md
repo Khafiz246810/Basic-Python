@@ -40,8 +40,7 @@ Ans:  Because
 (iii)	GUI Programming Support
 (iv)	High-Level Language
 (v)	Extensible feature
-(vi)	Python is a Portable language (If we have python code for windows and if we want to run this code on other platforms such as Linux, Unix, and Mac
-      then we do not need to change it.)
+(vi)	Python is a Portable language (If we have python code for windows and if we want to run this code on other platforms such as Linux, Unix, and Mac then we do not need to change it.)
 (vii)	Python is an Integrated language (We can easily integrate python with other languages like c, c++, etc.)
 (viii)  Interpreted Language 
 (ix)	Large Standard Library
