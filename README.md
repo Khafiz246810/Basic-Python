@@ -8,10 +8,10 @@ Fast Of all We Know
 
 # (1)	What is Python? 
 Ans: Python is a
-	Dynamic
-	High-level programming language.
-	Free open source 
-	Interpreted programming language
+(i)	Dynamic
+(ii)	High-level programming language.
+(iii)	Free open source 
+(iv)	Interpreted programming language
 
 # (2)	Where does Python support?
 Ans: Python support in 
