@@ -15,6 +15,7 @@ py -3 --version
 Or
 
 python --version
+![Screenshot-2022-02-18-150253](https://user-images.githubusercontent.com/116889143/201658116-e656df87-0911-4d29-8eef-c016850fb879.png)
 
 
 
