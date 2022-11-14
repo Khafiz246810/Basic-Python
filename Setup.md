@@ -37,4 +37,7 @@ python --version
 [Install the extension:](https://marketplace.visualstudio.com/items?itemName=ms-python.python)
 ![Screenshot 2022-11-14 at 19-00-54 Python - Visual Studio Marketplace](https://user-images.githubusercontent.com/116889143/201666746-15fde576-099c-4768-a22c-b6cb3307509b.png)
 
- 
+ ## Getting Started with Python in VS Code:
+ [Started](https://code.visualstudio.com/docs/python/python-tutorial)
+ ![Screenshot 2022-11-14 at 19-04-05 Get Started Tutorial for Python in Visual Studio Code](https://user-images.githubusercontent.com/116889143/201667305-7f2e61bf-e858-4b24-bb8a-e63a607c7bfb.png)
+
