@@ -1,13 +1,16 @@
 # Basic-Python
 In this repository, we discuss basic python. 
 Fast Of all We Know 
+```
 (1)	What is Python?
 (2)	Where Does python support?
 (3)	Why are we Using Python rather than any other programming language?
 (4)	Where do we use Python?
+```
 
 # (1)	What is Python? 
 Ans: Python is a
+>
 (i)	Dynamic
 (ii)	High-level programming language.
 (iii)	Free open source 
@@ -15,7 +18,7 @@ Ans: Python is a
 
 # (2)	Where does Python support?
 Ans: Python support in 
-	Procedural programming
+(	Procedural programming
 	Object-oriented programming
 	Functional programming
 	Reflective
