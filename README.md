@@ -11,6 +11,8 @@ Fast Of all We Know
 ```
 
 ## (1)	What is Python? 
+![What is Python](https://user-images.githubusercontent.com/116889143/201668687-84c919da-fd35-42f3-b1ca-d23641b94fcd.png)
+
 Ans: Python is a
 ```
 (i)	Dynamic
