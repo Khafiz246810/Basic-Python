@@ -25,3 +25,16 @@ python --version
 ![Screenshot 2022-11-14 at 18-31-15 Download Visual Studio Code - Mac Linux Windows](https://user-images.githubusercontent.com/116889143/201660690-ee0440d0-846f-450a-b4cd-4cfd3b61c46d.png)
 
 ## Install Visual Studio Code  
+![8](https://user-images.githubusercontent.com/116889143/201666116-9685abaf-b246-4a6d-a023-3e6cc71f0871.png)
+
+## Setup Python in Visual Studio Code:
+```
+   (a) Install the Python extension in Vscode.
+   (b) Configure other optional setups if necessary.
+ ```
+ 
+## Install python extension for VScode 
+[Install the extension:](https://marketplace.visualstudio.com/items?itemName=ms-python.python)
+![Screenshot 2022-11-14 at 19-00-54 Python - Visual Studio Marketplace](https://user-images.githubusercontent.com/116889143/201666746-15fde576-099c-4768-a22c-b6cb3307509b.png)
+
+ 
