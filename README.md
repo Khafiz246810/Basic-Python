@@ -47,6 +47,8 @@ Ans:  Because
 (ix)	Large Standard Library
 (x)	Dynamically Typed Language
 ```
+![Screenshot 2022-11-14 at 19-15-44 Why Do We Write Website Using Python](https://user-images.githubusercontent.com/116889143/201669767-0db9dde6-133f-4a7f-931d-a9e090299899.png)
+
 
 ## (4)	Where do we use Python?
 Ans:  We are using Python in 
@@ -60,4 +62,6 @@ Ans:  We are using Python in
 (vii)	Distributed Computing
 (viii)  Big Data
 ```
+![Screenshot 2022-11-14 at 19-14-38 Why Do We Write Website Using Python](https://user-images.githubusercontent.com/116889143/201669817-7bdc8c05-f81b-4275-860a-42d7b71a1d98.png)
+
                 
