@@ -22,4 +22,5 @@ python --version
  # Setting up Visual Studio Code (VScode) 
  
 [Download Visual Studio code:](https://code.visualstudio.com/download)
+![Screenshot 2022-11-14 at 18-31-15 Download Visual Studio Code - Mac Linux Windows](https://user-images.githubusercontent.com/116889143/201660690-ee0440d0-846f-450a-b4cd-4cfd3b61c46d.png)
 
