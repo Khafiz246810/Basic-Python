@@ -62,3 +62,29 @@ Welcome Khafiz with id 2229323 to the class
 ```
 ![Screenshot 2022-11-16 at 00-27-53 Google Colaboratory](https://user-images.githubusercontent.com/116889143/201997581-3951f228-8eda-4ddc-8a62-83098d073fc2.png)
 
+# Working with user Input 
+## (1)Taking input from user: input(prompt) function
+
+```python
+Input:
+name = input("Enter your name: ")
+print(name)
+
+Output:
+Enter your name: Khafiz
+Khafiz
+```
+![Screenshot 2022-11-16 at 00-32-31 Google Colaboratory](https://user-images.githubusercontent.com/116889143/201998429-be191bca-6352-41a7-b846-68ccc283708a.png)
+
+## How the input function works in Python :
+```
+i. When input(prompt) function executes program flow will be stopped until the user has given an input.
+ii. The text or message display (i.e., the prompt) on the output screen is optional. 
+iii. Whatever you enter as input, input function convert it into a string. 
+iv. if you enter an integer value still input() function convert it into a string.
+v. You need to explicitly convert it into an integer in your code using typecasting.
+```
+
+
+
+
