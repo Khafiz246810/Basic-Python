@@ -33,3 +33,6 @@ Output :
  
  Output:
  Hello to the  earth 3242
+ ```
+ ![Screenshot 2022-11-16 at 00-10-36 Google Colaboratory](https://user-images.githubusercontent.com/116889143/201995262-e99bcb2a-6f50-4981-bb86-e140fa5a7c4b.png)
+
