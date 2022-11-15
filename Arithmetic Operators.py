@@ -37,6 +37,4 @@ Output:
   Line 6 - Value of c is  8
   Line 7 - Value of c is  2
   
-# 3
-Input:
 
