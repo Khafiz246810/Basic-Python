@@ -6,16 +6,34 @@
 # print() statement prints / displays information in the console.
 ```python
 Input:
-print(“Hello World ! I am trying to learn Python!!”)
+print("Hello World ! I am trying to learn Python!!")
 Output:
 Hello World ! I am trying to learn Python!
 ```
+![Screenshot 2022-11-16 at 00-05-57 Google Colaboratory](https://user-images.githubusercontent.com/116889143/201993612-8d4844fe-8aa2-45ce-b74a-b902ee4dadae.png)
+
 # Use the print() Statement to Print a Variable in Python
 ```python
 Input:
-var = ‘Hello World !’
+var = "Hello World !"
 print(var)
 
 Output :
  Hello World ! 
 ```
+![Screenshot 2022-11-16 at 00-07-33 Google Colaboratory](https://user-images.githubusercontent.com/116889143/201993865-f671add0-a4f2-48f8-b21f-5ed487dcfee5.png)
+
+ # Print multiple variables: Use a Comma , to Separate the Variables and Print Them
+ 
+ ```python
+ Input:
+ var1=3242
+ var2= "earth "
+ parint("Hello to the ",var2,var1)
+ 
+ Output:
+ Hello to the  earth 3242
+ ```
+ ![Screenshot 2022-11-16 at 00-10-36 Google Colaboratory](https://user-images.githubusercontent.com/116889143/201994477-2c7827eb-fd92-419b-aab0-d0446328e73a.png)
+ 
+ 
