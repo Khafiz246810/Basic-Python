@@ -4,9 +4,18 @@
 ## Display values to the Console ()
 
 # print() statement prints / displays information in the console.
-```
+```python
 Input:
 print(“Hello World ! I am trying to learn Python!!”)
 Output:
 Hello World ! I am trying to learn Python!
+```
+# Use the print() Statement to Print a Variable in Python
+```python
+Input:
+var = ‘Hello World !’
+print(var)
+
+Output :
+ Hello World ! 
 ```
