@@ -84,6 +84,22 @@ iii. Whatever you enter as input, input function convert it into a string.
 iv. if you enter an integer value still input() function convert it into a string.
 v. You need to explicitly convert it into an integer in your code using typecasting.
 ```
+# Comments in your program ( Comments are not printed!!) 
+```
+i. A hash sign (#) that is not inside a string literal is the beginning of a comment.
+ii. All characters after the #, up to the end of the physical line, are part of the comment.
+iii. The Python interpreter ignores them while executing the code.
+```
+
+```python
+Input:
+#First comment
+print ("Hello, Python!") # second comment
+
+Output:
+Hello, Python!
+```
+![Screenshot 2022-11-16 at 00-37-49 Google Colaboratory](https://user-images.githubusercontent.com/116889143/201999314-81f18b30-2d9f-4a2c-ba46-8f9640a7d956.png)
 
 
 
