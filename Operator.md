@@ -5,8 +5,9 @@ Ans: Operators are the constructs, which can manipulate the value of operands.
 
 Example: 
       4 + 5 = 9
- ```
- ![image](https://user-images.githubusercontent.com/116889143/202096872-5e909c86-2487-44fa-8f9d-f185b3943f09.png)
+ ``` 
+ ![image](https://user-images.githubusercontent.com/116889143/202098121-5e6bed10-d12f-497a-a1c6-d62fe74668a2.png)
+
  
  ## How many Operators we used in Python ?
  ```
