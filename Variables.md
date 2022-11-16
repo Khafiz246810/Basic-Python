@@ -29,7 +29,7 @@ Khafiz
 ![Screenshot 2022-11-16 at 20-50-08 Google Colaboratory](https://user-images.githubusercontent.com/116889143/202213155-8d25da94-4c26-4804-9235-9f09a9d859e7.png)
 
 # Multiple value Assignment
-```
+```python
 Input :
 
 a = b = c = 1
@@ -45,7 +45,7 @@ Output:
 
 ```
 
-```
+```python
 Input:
 
 a, b, c = 1, 2, "john"
