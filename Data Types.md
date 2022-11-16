@@ -79,4 +79,45 @@ This is Python Course
 ```
 ![image](https://user-images.githubusercontent.com/116889143/202230546-148475a3-246f-4829-8350-007aa5bfc64f.png)
 
+## What is the difference between these Three type of Quotes??
 
+Ans:
+- We can use single quotes or double quotes to represent strings.
+-  Multi-line strings can be denoted using triple quotes, ''' or """
+
+```python
+Input :
+
+name1 = 'This is Python Course'
+print(name1)
+
+Output: 
+This is Python Course
+```
+```python
+Input :
+
+name1 = "This is Python Course"
+text = "This is Khafiz’s Book"
+print(name1)
+print(text)
+
+Output:
+
+This is Python Course
+This is Khafiz’s Book
+
+```
+
+```python
+Input:
+
+name3 = '''A multiline
+string'''
+print(name3)
+
+Output:
+
+A multiline
+string
+```
