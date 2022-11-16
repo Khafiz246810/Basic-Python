@@ -176,6 +176,9 @@ Output:
 
 # Checking input types / Typecasting
 
+![Type-Casting-in-Python](https://user-images.githubusercontent.com/116889143/202255794-4e22aa89-be1d-4ee2-b574-750323c5f094.png)
+
+
 ## How the input function works in Python :
 Whatever you enter as input, input function convert it into a string. a.
   -  if you enter an integer value still input() function convert it into a string.
@@ -220,7 +223,7 @@ sum is:  1020
 <class 'str'>
 
 ```
-This is wrong ans . So we can solve this problem this way :
+This is wrong Output . So we can solve this problem this way :
 ```python
 
 Input:
@@ -242,6 +245,7 @@ sum is:  30
 <class 'int'>
 <class 'int'>
 ```
+
 
 
 
