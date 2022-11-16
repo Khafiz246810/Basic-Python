@@ -26,7 +26,40 @@ Output:
 23.42
 Khafiz
 ```
-![image](https://user-images.githubusercontent.com/116889143/202212840-b9ab9448-28b6-4c71-b532-8e2ef92b18c1.png)
+![Screenshot 2022-11-16 at 20-50-08 Google Colaboratory](https://user-images.githubusercontent.com/116889143/202213155-8d25da94-4c26-4804-9235-9f09a9d859e7.png)
+
+# Multiple value Assignment
+```
+Input :
+
+a = b = c = 1
+print(a)
+print(b)
+print(c)
+
+Output:
+
+1
+1
+1
+
+```
+
+```
+Input:
+
+a, b, c = 1, 2, "john"
+print(a)
+print(b)
+print(c)
+
+Output:
+
+1
+2
+john
+```
+![image](https://user-images.githubusercontent.com/116889143/202214045-075486fe-d514-4333-ab6a-afbc70baf193.png)
 
 
 
