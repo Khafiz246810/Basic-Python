@@ -19,3 +19,11 @@ Ans : Python has six standard Data Types . There are ,
 
 ```
 ![image](https://user-images.githubusercontent.com/116889143/202224107-cf8efc93-87aa-43b9-b2a5-093aebb50aaf.png)
+
+
+# (1) Number 
+
+Python supports three different numerical types −
+- int (signed integers)
+- float (floating point real values)
+- complex (complex numbers)
