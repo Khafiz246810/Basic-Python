@@ -3,6 +3,7 @@
 ## What is Reserved word?
 ```
 Ans : A reserved word is a word that cannot be used as an identifier, such as the name of a variable, function, or label 
+-  All the Python keywords contain lowercase letters only.
 ```
 ![image](https://user-images.githubusercontent.com/116889143/202216011-7e5535c2-927b-4723-ba5d-f88802aa93c2.png)
 
