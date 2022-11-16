@@ -121,3 +121,34 @@ Output:
 A multiline
 string
 ```
+
+## Slice operator
+- Slice operator ([ ] and [:] ) Beginning index at 0 and Backward index -1.
+```python
+Input:
+
+str = 'Hello World'
+print (str) # Prints complete string
+print (str[0]) # Prints first character of the string
+print (str[2:5]) # Prints characters starting from 3rd to 5th
+print (str[2:]) # Prints string starting from 3rd character
+print(str[-1]) # # Prints the last character
+print(str[-3:]) # # Prints the last character
+print(str[:-3]) # # Prints the last character
+
+Output:
+
+Hello World
+H
+llo
+llo World
+d
+rld
+Hello Wo
+
+```
+
+
+
+
+![image](https://user-images.githubusercontent.com/116889143/202251268-fede50a5-6c48-45a2-be28-6fbc65913ace.png)
