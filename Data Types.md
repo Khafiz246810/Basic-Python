@@ -29,4 +29,6 @@ Python supports 3 different numerical types −
 - complex (complex numbers)
 
 ![Python-Number-Types-01-1024x536](https://user-images.githubusercontent.com/116889143/202227316-90a43c04-4f3c-48af-a34c-b1241c8f96a9.png)
+![image](https://user-images.githubusercontent.com/116889143/202227887-8d8084fb-8f2e-4c2e-933c-585c84dfcda6.png)
+
 
