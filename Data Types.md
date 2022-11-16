@@ -34,9 +34,9 @@ Python supports 3 different numerical types −
 ```python
 Input :
 
-a = 5
+a = 12
 print(a, "is of type", type(a))
-a = 2.0
+a = 94.32
 print(a, "is of type", type(a))
 a = 1+2j
 print(a, "is complex number?", isinstance(1+2j,complex))
@@ -48,5 +48,35 @@ Output :
 (1+2j) is complex number? True
 ```
 
+# (2) String
+
+A string is a collection of one or more characters put in
+- a single quote ( name = 'This is Python Course')
+- double-quote ( name = "This is Python Course")
+- triple quote ( name = '''This is Python Course''')
+```
+In python there is no character data type, a character
+is a string of length one. It is represented by str class.
+```
+
+
+```python
+Input :
+
+name1 = 'This is Python Course'
+name2 = "This is Python Course"
+name3 = '''This is Python Course'''
+print(name1)
+print(name2)
+print(name3)
+
+Output:
+
+This is Python Course
+This is Python Course
+This is Python Course
+
+```
+![image](https://user-images.githubusercontent.com/116889143/202230546-148475a3-246f-4829-8350-007aa5bfc64f.png)
 
 
