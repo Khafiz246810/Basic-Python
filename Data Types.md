@@ -124,6 +124,8 @@ string
 
 ## Slice operator
 - Slice operator ([ ] and [:] ) Beginning index at 0 and Backward index -1.
+![image](https://user-images.githubusercontent.com/116889143/202252005-bde2609d-3d81-41ca-8749-752325cf9eb7.png)
+
 ```python
 Input:
 
@@ -148,7 +150,99 @@ Hello Wo
 
 ```
 
-
-
-
 ![image](https://user-images.githubusercontent.com/116889143/202251268-fede50a5-6c48-45a2-be28-6fbc65913ace.png)
+
+
+# Datatype Conversion 
+```
+You can explicitly check and convert the type of a
+variable (for built-in data types).
+```
+```python
+Input:
+
+x = 50
+print(type(x))
+y = 'Python'
+print(type(y))
+
+Output:
+
+<class 'int'>
+<class 'str'>
+```
+![Screenshot 2022-11-16 at 23-37-04 Datatype Conversion in Python data types - Google Search](https://user-images.githubusercontent.com/116889143/202253074-61007cec-a830-4f3a-89a5-77a9dddc3300.png)
+
+
+# Checking input types / Typecasting
+
+## How the input function works in Python :
+Whatever you enter as input, input function convert it into a string. a.
+  -  if you enter an integer value still input() function convert it into a string.
+  -  You need to explicitly convert it into an integer in your code using typecasting.
+  
+  ```python
+  Input:
+  
+num = input ("Enter number :")
+print(num)
+name1 = input("Enter name : ")
+print(name1)
+# Printing type of input value
+print ("type of number", type(num))
+print ("type of name", type(name1))
+
+Output:
+
+Enter number :42
+42
+Enter name : Khafiz
+Khafiz
+type of number <class 'str'>
+type of name <class 'str'>
+```
+```python
+Input:
+
+x = input("1st number: ")
+y = input("2nd number: ")
+z = x + y
+print('sum is: ', z)
+print(type(x))
+print(type(y))
+
+Output:
+
+1st number: 10
+2nd number: 20
+sum is:  1020
+<class 'str'>
+<class 'str'>
+
+```
+This is wrong ans . So we can solve this problem this way :
+```python
+
+Input:
+
+x = input("1st number: ")
+y = input("2nd number: ")
+x = int(x)
+y = int(y)
+z = x + y
+print("sum is: ", z)
+print(type(x))
+print(type(y))
+
+Output:
+
+1st number: 10
+2nd number: 20
+sum is:  30
+<class 'int'>
+<class 'int'>
+```
+
+
+
+
