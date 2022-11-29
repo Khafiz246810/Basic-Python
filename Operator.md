@@ -23,3 +23,15 @@ Example:
  ![Python-Operators](https://user-images.githubusercontent.com/116889143/202097779-26dd37d4-0deb-4f33-8c2a-4344729d7698.png)
 
  
+ ## (1) Arithmetic Operators 
+
+ There are 7 arithmetic operators in Python :
+ - Addition
+ - Subtraction
+ - Multiplication
+ - Division
+ - Modulus
+ - Exponentiation
+ - Floor division
+ ![image](https://user-images.githubusercontent.com/116889143/204562953-21371fe3-a18e-434c-9ce4-5807317a91d6.png)
+
