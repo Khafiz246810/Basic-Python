@@ -38,5 +38,8 @@ Example:
  
  
 ## (2) Assignment Operators 
+ 
+ There are 7 assignment operators in Python :
+ 
 
 
