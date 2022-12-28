@@ -33,5 +33,10 @@ Example:
  - Modulus
  - Exponentiation
  - Floor division
+ 
  ![image](https://user-images.githubusercontent.com/116889143/204562953-21371fe3-a18e-434c-9ce4-5807317a91d6.png)
+ 
+ 
+## (2) Assignment Operators 
+
 
